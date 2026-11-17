@@ -353,3 +353,23 @@ The features described are potential development capabilities, not a representat
 This repository is maintained by Naya Prayog Technologies for service presentation, portfolio, and business development purposes.
 
 Unless explicitly stated otherwise in a separate written agreement, the materials, branding, documentation, and proprietary content in this repository may not be copied, redistributed, or commercially reused without permission.
+
+<!-- screenshots -->
+## Screenshots
+
+**Home**
+
+![Home](screenshots/1-home.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Menu</b><br><br><img src="screenshots/2-menu.png" alt="Menu"></td>
+    <td align="center" width="50%"><b>Dish Customisation</b><br><br><img src="screenshots/4-customise.png" alt="Dish Customisation"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
+  </tr>
+</table>
